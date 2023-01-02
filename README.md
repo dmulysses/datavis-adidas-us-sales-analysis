@@ -3,7 +3,7 @@
 
 **Data manipulation** and **visual exploration** to probe the features, challenges, and solutions of popular libraries available in Python using the Adidas US Sales dataset.
 
-The first goal of this exercise is to use some tools in the [Pandas](https://pandas.pydata.org/) library to **load**, **clean**, and **preprocess** the dataset and turn the information available to use. Then create different types of graphs for data visualization, such as **pie plots**, **histograms**,  **bar plots**, and **choropleth maps**; for this task were used two distinct different libraries:
+The first goal of this exercise is to use some tools in the [Pandas](https://pandas.pydata.org/) library to **load**, **clean**, and **preprocess** the dataset and turn the information available to use. Then create different types of graphs for data visualization, such as **pie plots**, **histograms**,  **bar plots**, and **choropleth maps**; for this task were used two distinct libraries:
 
  - [Matplotlib](https://matplotlib.org/)
  - [Plotly](https://plotly.com/)
