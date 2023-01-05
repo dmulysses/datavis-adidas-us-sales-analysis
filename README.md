@@ -9,5 +9,3 @@ The first goal of this exercise is to use some tools in the [Pandas](https://pan
  - [Plotly](https://plotly.com/)
 
 The dataset file used in this notebook was collected on the [Kaggle website](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset) and contains sales information such as the number of products sold, price per unit, retailer, invoice data, and sales method.
-
-![Python](https://img.shields.io/badge/python-v3.9.13-green) ![Pandas](https://img.shields.io/badge/pandas-v1.4.4-green) ![Matplotlib](https://img.shields.io/badge/matplolib-v3.5.2-green) ![Plotly](https://img.shields.io/badge/plotly-v5.9.0-green)
